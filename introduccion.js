@@ -46,3 +46,4 @@ let mEdad= 34;
 let tuEdad= 32;
 console.log(miEdad);
 console.log(tuEdad);
+console.log(`Mi edad es: ${tuEdad}`);
